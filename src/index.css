@@ -1,0 +1,41 @@
+
+
+body{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 300;
+	line-height: 1.7;
+	color: #ffeba7;
+	background-color: #1f2029;
+  overflow: hidden;
+  height: 100vh;
+   background: radial-gradient(ellipse at bottom, #1B2735 0%, #12141d 100%); 
+}
+:root {
+  --main-color: #685cfe;
+  --main-transition: 0.5s all ease-in-out;
+}
+
+a:hover {
+	text-decoration: none;
+}
+.link {
+  color: #ffeba7;
+}
+.link:hover {
+  color: #c4c3ca;
+}
+p {
+  font-weight: 500;
+  font-size: 14px;
+}
+h4 {
+  font-weight: 600;
+}
+h6 span{
+  padding: 0 20px;
+  font-weight: 700;
+}
+ul{
+  padding: 0;
+}
+

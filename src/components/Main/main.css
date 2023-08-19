@@ -1,0 +1,31 @@
+.main{
+ 
+    height: 100vh;
+
+}
+.main-search {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.main-input{
+    position: relative;
+    margin-top: 40px;
+    border-radius: 10px;
+    width: 24rem;
+    background: transparent;
+    backdrop-filter: blur(20px);
+    color: white;
+      
+}
+.btn-main{
+    position: absolute;
+    top: 0;
+    right: 280px;
+    border: none;
+    color: white;
+    background-color: transparent;
+}
